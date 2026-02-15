@@ -293,7 +293,7 @@ This prevents duplicate reports if the workflow is re-triggered later the same d
 
 ---
 
-## Repository structure (suggested)
+## Repository structure
 
 ```text
 .
