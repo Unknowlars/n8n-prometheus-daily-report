@@ -1,4 +1,4 @@
-# InfraOps System Pulse
+# InfraOps System report with metrics from Promthues in n8n
 ### Daily Infrastructure Health Report (n8n Workflow)
 
 Automated daily health reporting for infrastructure using **n8n + Prometheus/VictoriaMetrics + optional LLM summarization**.  
@@ -25,7 +25,7 @@ The workflow collects host metrics, correlates incidents, predicts capacity risk
 
 ## What this workflow does
 
-This workflow generates a daily **System Pulse** report with:
+This workflow generates a daily **System** report with:
 
 - ✅ Host availability and uptime overview
 - ✅ Site-level SLA compliance (Copenhagen / Helsinki / Remote)
@@ -293,7 +293,7 @@ This prevents duplicate reports if the workflow is re-triggered later the same d
 ```text
 .
 ├─ workflow/
-│  └─ infraops-system-pulse.json
+│  └─ n8n-prometheus-daily-report.json
 ├─ docs/
 │  ├─ SAMPLE_REPORT.md
 │  ├─ METRIC_DICTIONARY.md
