@@ -22,7 +22,7 @@ The workflow collects host metrics, correlates incidents, predicts capacity risk
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Unknowlars/n8n-prometheus-daily-report/main/screenshots/workflow.png alt="N8N workflow" width="80%" />
+  <img src="https://raw.githubusercontent.com/Unknowlars/n8n-prometheus-daily-report/refs/heads/main/screenshots/workflow.png" alt="N8N workflow" width="80%" />
   <p><em>N8N workflow</em></p>
 </div>
 
