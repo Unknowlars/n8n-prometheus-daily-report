@@ -7,18 +7,23 @@ The workflow collects host metrics, correlates incidents, predicts capacity risk
 ## Screenshots
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Unknowlars/n8n-prometheus-daily-report/main/screenshots/report_1.png" alt="Home Dashboard" width="80%" />
+  <img src="https://raw.githubusercontent.com/Unknowlars/n8n-prometheus-daily-report/main/screenshots/report_1.png" alt="Executive summary" width="80%" />
   <p><em>Executive summary</em></p>
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Unknowlars/n8n-prometheus-daily-report/main/screenshots/report_2.png" alt="Container Management" width="80%" />
-  <p><em>Site SLA & Actiocs</em></p>
+  <img src="https://raw.githubusercontent.com/Unknowlars/n8n-prometheus-daily-report/main/screenshots/report_2.png" alt="Site SLA & Actions" width="80%" />
+  <p><em>Site SLA & Actions</em></p>
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Unknowlars/n8n-prometheus-daily-report/main/screenshots/report_3.png" alt="Container Management" width="80%" />
+  <img src="https://raw.githubusercontent.com/Unknowlars/n8n-prometheus-daily-report/main/screenshots/report_3.png" alt="infrastructure Metrics" width="80%" />
   <p><em>infrastructure Metrics</em></p>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Unknowlars/n8n-prometheus-daily-report/main/screenshots/workflow.png alt="N8N workflow" width="80%" />
+  <p><em>N8N workflow</em></p>
 </div>
 
 ---
